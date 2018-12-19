@@ -20,7 +20,9 @@ view: products {
     {% elsif {{value}} == "Ray-Ban" %}
     <img src="https://bit.ly/2EwDhrg" width="90%" height="90%" align="middle"/></div>
     {% elsif {{value}} == "Super Mario" %}
-    <img src="https://bit.ly/2BsesJW" width="90%" height="90%" align="middle"/></div>
+    <img src="https://bit.ly/2LoTLDa" width="90%" height="90%" align="middle"/></div>
+    {% elsif {{value}} == "Calvin Klein" %}
+    <img src="https://i.pinimg.com/originals/c4/7e/c7/c47ec799c2d9c30ef4018d2dc1347c2e.jpg" width="90%" height="90%" align="middle"/></div>
     {% endif %};;
   }
 
